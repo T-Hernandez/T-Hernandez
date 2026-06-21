@@ -29,11 +29,3 @@
 </div>
 
 ###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Andres Tomas Hernandez Bermudez">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Andres%20Tomas%20Hernandez%20Bermudez&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
