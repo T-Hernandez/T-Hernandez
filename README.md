@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hiii, I'm Tom˙ᵕ˙</h2>
+<h2 data-importer="text" align="left">Hi, I'm Tom˙ᵕ˙</h2>
 
 ###
 
